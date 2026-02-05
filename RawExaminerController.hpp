@@ -2,8 +2,6 @@
 /// (C) by Quirin Meyer
 /// quirin.meyer@hs-coburg.de
 #pragma once
-
-#pragma once
 #include <array>
 #include <cmath>
 class RawExaminerController
